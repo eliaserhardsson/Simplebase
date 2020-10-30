@@ -6,4 +6,7 @@ Requirments
 * mysql server
 
 
-Just start it by `cd www/` and then `php -S localhost:8000`
+Just start it by 
+  * `composer install`
+  * `cd www/`
+  * `php -S localhost:8000`
